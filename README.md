@@ -1,24 +1,42 @@
-Vielen Dank, dass Sie unsere App verwenden. Diese Datenschutzerklärung soll Ihnen dabei helfen zu verstehen, welche Informationen wir sammeln, warum wir sie sammeln und wie wir sie verwenden.
+**Datenschutzerklärung für die Tuning Schweiz App**
 
-Erfasste Informationen:
+Diese Datenschutzerklärung beschreibt, wie DevSohneg (nachfolgend "wir", "uns" oder "unser") personenbezogene Daten erhebt, verwendet und schützt, die durch die Nutzung der Tuning Schweiz App (nachfolgend "App") bereitgestellt werden. Bitte lesen Sie diese Datenschutzerklärung sorgfältig durch.
 
-Personenbezogene Daten: Wir erfassen und speichern personenbezogene Daten wie Ihren Namen, Ihre E-Mail-Adresse und andere Informationen, die Sie freiwillig bereitstellen, wenn Sie sich registrieren oder mit unserer App interagieren.
-Geräteinformationen: Wir erfassen automatisch Informationen über Ihr Gerät, einschließlich des Modells, der Betriebssystemversion, der eindeutigen Gerätekennungen und anderer technischer Daten, um die Leistung und Sicherheit unserer App zu verbessern.
-Verwendung der erfassten Informationen:
+**1. Erhebung und Verwendung von Daten**
 
-Bereitstellung und Verbesserung der App: Wir verwenden die erfassten Informationen, um Ihnen unsere Dienste bereitzustellen, Ihre Benutzererfahrung zu verbessern und die Leistung unserer App zu optimieren.
-Kommunikation: Wir können Ihre Kontaktdaten verwenden, um mit Ihnen zu kommunizieren, z.B. um Ihnen wichtige Updates oder Informationen über die App zu senden.
-Rechtliche Anforderungen: Wir können Ihre Informationen offenlegen, wenn wir dazu gesetzlich verpflichtet sind oder wenn dies zum Schutz unserer Rechte, unserer Benutzer oder anderer erforderlich ist.
-Datenschutz und Sicherheit:
+1.1. Wir erheben und verwenden personenbezogene Daten nur, soweit dies zur Bereitstellung und Verbesserung unserer App sowie zur Kommunikation mit den Nutzern erforderlich ist.
 
-Wir treffen angemessene Maßnahmen, um die Sicherheit Ihrer Daten zu gewährleisten und unbefugten Zugriff, Nutzung oder Offenlegung zu verhindern.
-Wir geben Ihre persönlichen Daten niemals ohne Ihre Zustimmung an Dritte weiter, es sei denn, dies ist zur Bereitstellung unserer Dienste erforderlich oder gesetzlich vorgeschrieben.
-Kinderdatenschutz:
+1.2. Die Arten von personenbezogenen Daten, die wir erfassen können, umfassen, sind jedoch nicht beschränkt auf:
 
-Unsere App richtet sich nicht an Kinder unter 13 Jahren, und wir erfassen wissentlich keine personenbezogenen Daten von Kindern.
-Kontakt: 
+- Benutzername und Profilinformationen
+- Kontaktdaten (z. B. E-Mail-Adresse)
+- Geräteinformationen (z. B. Geräte-ID, Betriebssystem)
+- Nutzungsdaten (z. B. Besuche, Interaktionen)
 
-Wenn Sie Fragen oder Bedenken bezüglich unserer Datenschutzerklärung oder der Verwendung Ihrer Daten haben, kontaktieren Sie uns bitte unter devsohneg@gmail.com.
-Bitte beachten Sie, dass diese Datenschutzerklärung regelmäßig überprüft und aktualisiert werden kann, um sicherzustellen, dass sie den geltenden Datenschutzgesetzen entspricht. Durch die Nutzung unserer App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
+1.3. Wir verwenden die erhobenen Daten, um die App bereitzustellen, ihre Leistung zu verbessern, Benutzeranfragen zu beantworten, Sicherheitsmaßnahmen durchzuführen und mit den Nutzern zu kommunizieren.
 
-Letzte Aktualisierung: 12.04.2024
+**2. Weitergabe von Daten**
+
+2.1. Wir geben personenbezogene Daten nicht an Dritte weiter, es sei denn, dies ist gesetzlich vorgeschrieben oder erforderlich, um die App zu betreiben oder unsere Rechte zu schützen.
+
+2.2. Wir können aggregierte oder anonymisierte Daten mit Dritten teilen, z. B. für statistische Analysen oder Marketingzwecke.
+
+**3. Datensicherheit**
+
+3.1. Wir ergreifen angemessene Sicherheitsmaßnahmen, um personenbezogene Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen.
+
+3.2. Obwohl wir alle angemessenen Anstrengungen unternehmen, um die Sicherheit Ihrer Daten zu gewährleisten, können wir keine absolute Sicherheit garantieren.
+
+**4. Cookies und Tracking**
+
+4.1. Die App kann Cookies und ähnliche Tracking-Technologien verwenden, um die Nutzung der App zu analysieren und zu verbessern sowie personalisierte Inhalte bereitzustellen.
+
+4.2. Sie können die Verwendung von Cookies in den Einstellungen Ihres Geräts deaktivieren, allerdings kann dies die Funktionalität der App beeinträchtigen.
+
+**5. Ihre Rechte**
+
+5.1. Sie haben das Recht, auf Ihre personenbezogenen Daten zuzugreifen, sie zu korrigieren, zu löschen oder deren Verarbeitung einzuschränken. Bitte kontaktieren Sie uns für weitere Informationen.
+
+**6. Kontaktinformationen**
+
+6.1. Wenn Sie Fragen oder Bedenken bezüglich dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte unter devsohneg@gmail.com.
